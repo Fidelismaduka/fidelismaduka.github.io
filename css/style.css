@@ -1,0 +1,13 @@
+body{
+background-image: url("../image 21.jpg");
+background-repeat: no-repeat;
+border-image: 70px;
+}
+h1{
+	font: 80px;
+	font-family: arial;
+	color: blue;
+}
+div{
+	background-image: url(http://houseoffinesse.co.uk/urmston/images/haircare_banner.jpg);
+}
